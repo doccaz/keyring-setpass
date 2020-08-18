@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=keyring-setpass
+Icon=kgpg
+GenericName=Recreates the default login keyring
+Comment=Recreates the default login keyring
+Terminal=false
+Name=keyring-setpass
+Categories=Utility;GNOME;GTK;
+OnlyShowIn=GNOME;
